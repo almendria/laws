@@ -1,9 +1,13 @@
 # CONSTITUTION ACT
 
 The workers and people of the republics of the United Socialist Republics do solemnly recognize that–
+
 Whereas: The people of our nation and of our planet have for generations been oppressed by the evils of capitalism and economic inequalities have caused ever-growing inequality;
+
 Whereas: The unity of our country and people is dependent on a structured and egalitarian government;
+
 Whereas: By uniting under the United Socialist Republics, the workers and the people do hereby–
+
 Resolve:
 (1) To establish this Constitution of the United Socialist Republics Union, in order to:
 Establish the existence of the nation of the republics of the United Socialist Republics, and its rightful government, its federalist government;
@@ -25,7 +29,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 
 ## §2. Legislative
 
-¶1. The National Assembly shall exist as the federal unicameral parliament of the United Socialist Republics and its jurisdiction shall exist throughout the entire nation.
+The National Assembly shall exist as the federal unicameral parliament of the United Socialist Republics and its jurisdiction shall exist throughout the entire nation.
 
 ¶2. Every citizen shall be a member of the National Assembly.
 
