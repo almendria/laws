@@ -1,4 +1,4 @@
-CONSTITUTION ACT
+# CONSTITUTION ACT
 
 The workers and people of the republics of the United Socialist Republics do solemnly recognize that–
 Whereas: The people of our nation and of our planet have for generations been oppressed by the evils of capitalism and economic inequalities have caused ever-growing inequality;
@@ -13,7 +13,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 (5) Create the judicial system, established to interpret and apply the laws created by the legislative system;
 (6) Enable the creation of ministries to enforce the law.
 
-# §1. Foundations
+## §1. Foundations
 
 ¶1. The name of this act is the Constitution Act.
 
@@ -23,7 +23,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 
 ¶4. The United Socialist Republics shall be a socialist nation following Marxism and shall be under the administration of the Communist Party of the United Socialist Republic (“Communist Party”).
 
-# §2. Legislative
+## §2. Legislative
 
 ¶1. The National Assembly shall exist as the federal unicameral parliament of the United Socialist Republics and its jurisdiction shall exist throughout the entire nation.
 
@@ -55,7 +55,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 (13) Ministry of Trade;
 (14) Ministry of War.
 
-# §3. Judicial
+## §3. Judicial
 
 ¶1. There shall exist the Supreme Court of the United Socialist Republics (“Supreme Court”), which shall be the first and primary national court of the United Socialist Republics.
 
@@ -82,7 +82,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 
 ¶9. This Constitution should be interpreted by its text as it means, without regard for the connotation of text or modern interpretation, meaning that it should be interpreted with a textualist approach.
 
-# §4. Autonomous Republics
+## §4. Autonomous Republics
 
 ¶1. Autonomous Republics may be brought into the United Socialist Republics from time to time by the National Assembly.
 
@@ -90,7 +90,7 @@ Establish the existence of the nation of the republics of the United Socialist R
 
 ¶3. Autonomous Republics must follow and recognize this Constitution.
 
-# §6. Rights
+## §6. Rights
 
 ¶1. Everyone has the right to life from birth.
 
@@ -203,24 +203,13 @@ Everyone has the right to own and bear firearms, except for disturbed and mental
 
 ¶28.
 In this section, “everyone” shall not include those that have been convicted of crimes and are on sentences or rights in this act contradict certain provisions of their release, excluding rights pertaining specifically to the judicial system and equality above the law.
-§7.
-For
-Amendments–
 
+## §7. Amendments
 
-¶1.
-Amendments to Act can be made through the standard referendum process in the National Assembly.
+¶1. Amendments to Act can be made through the standard referendum process in the National Assembly.
 
+¶2. Amendments can be made directly to the text of this Act once approved.
 
-¶2.
-Amendments can be made directly to the text of this Act once approved.
+¶3. A majority of votes in the National Assembly are required for amendments to this Constitution.
 
-
-¶3.
-A majority of votes in the National Assembly are required for amendments to this Constitution.
-
-
-¶4.
-This Constitution is supreme to any other law.
-
-Approved by the popular vote of the National Assembly in a referendum.
+¶4. This Constitution is supreme to any other law.
