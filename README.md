@@ -1,4 +1,4 @@
-# CONSTITUTION ACT
+# Constitution Act
 
 The workers and people of the republics of the United Socialist Republics do solemnly recognize that–
 
