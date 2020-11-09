@@ -93,7 +93,7 @@ The National Assembly shall exist as the federal unicameral parliament of the Un
 
 ¶3. Autonomous Republics must follow and recognize this Constitution.
 
-## §6. Rights
+## §5. Rights
 
 ¶1. Everyone has the right to life from birth.
 
@@ -111,95 +111,55 @@ The National Assembly shall exist as the federal unicameral parliament of the Un
 
 ¶8. Everyone has the right to leave any country, including their own.
 
+¶9. Everyone has the right to apply for citizenship.
 
-¶9.
-Everyone has the right to apply for citizenship.
+¶10. Two people of mature age have the right to found a family and with consent, engage in sexual activities.
 
+¶11. No person above adult age besides those older by less than 3 years of the mature aged person should form any intimate relationships with them.
 
-¶10.
-Two people of mature age have the right to found a family and with consent, engage in sexual activities.
+¶12. Everyone has the right to own personal property alone as well as in association with others, which shall not be taken from them by others or the government without their consent.
 
-
-¶11.
-No person above adult age besides those older by less than 3 years of the mature aged person should form any intimate relationships with them.
-
-
-¶12.
-Everyone has the right to own personal property alone as well as in association with others, which shall not be taken from them by others or the government without their consent.
-
-
-¶13.
-Everyone has the right to organize and form a peaceful assembly to protest whatever they desire.
-
+¶13. Everyone has the right to organize and form a peaceful assembly to protest whatever they desire.
 
 ¶14.
 Everyone has the right, without any discrimination to:
-Work;
-Choice of employment (except for where is absolutely necessary for the protection of employees);
-Just and favorable conditions of work;
-Equal pay for equal work;
-Form and join trade unions for the protection of the worker;
-Just provisions of housing, or housing loans, and loan rates reflective of their risk to the creditors;
-Just and equal usage of public accommodations and areas limited to a reasonable extent.
+1. Work;
+2. Choice of employment (except for where is absolutely necessary for the protection of employees);
+3. Just and favorable conditions of work;
+4. Equal pay for equal work;
+5. Form and join trade unions for the protection of the worker;
+6. Just provisions of housing, or housing loans, and loan rates reflective of their risk to the creditors;
+7. Just and equal usage of public accommodations and areas limited to a reasonable extent.
 
+¶15. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
 
+¶16. Everyone has the right to food, water, and shelter.
 
-¶15.
-Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
+¶17. Everyone has the right to education. Fundamental education shall be compulsory.
 
+¶18. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
 
-¶16.
-Everyone has the right to food, water, and shelter.
+¶19. Everyone has the right to access infrastructure within reasonable means.
 
+¶20. Everyone has the right to enjoy and entertain themselves, within the reasonable limits of the law.
 
-¶17.
-Everyone has the right to education. Fundamental education shall be compulsory.
+¶21. Everyone has the right to high quality, free healthcare. No person will have to declare bankruptcy or harm their financial standing in order to pay for any part of their healthcare arrangement, within reasonable limitations.
 
+¶22. Everyone has the right to be equal before the law and therefore no laws shall be discriminatory.
 
-¶18.
-Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
+¶23. Everyone has the right to an attorney in a court of law.
 
+¶24. Everyone has the right to stay free inside their personal property: law enforcement must obtain a warrant from the court with an oath of affirmation and probable cause before they are given authorization to enter personal property, excluding privately owned public spaces within the reasonable limits of the law and the consent of the property owner.
 
-¶19.
-Everyone has the right to access infrastructure within reasonable means.
+¶25. Everyone has the right to trial by jury.
 
+¶26. Everyone has the right to not be put subjected to cruel punishments.
 
-¶20.
-Everyone has the right to enjoy and entertain themselves, within the reasonable limits of the law.
+¶27. Everyone has the right to own and bear firearms, except for disturbed and mentally ill persons as determined by a doctor, or minors. Sellers have the right to not sell to any person for any reason excluding discrimination as determined by law.
 
+¶28. In this section, “everyone” shall not include those that have been convicted of crimes and are on sentences or rights in this act contradict certain provisions of their release, excluding rights pertaining specifically to the judicial system and equality above the law.
 
-¶21.
-Everyone has the right to high quality, free healthcare. No person will have to declare bankruptcy or harm their financial standing in order to pay for any part of their healthcare arrangement, within reasonable limitations.
-
-
-¶22.
-Everyone has the right to be equal before the law and therefore no laws shall be discriminatory.
-
-
-¶23.
-Everyone has the right to an attorney in a court of law.
-
-
-¶24.
-Everyone has the right to stay free inside their personal property: law enforcement must obtain a warrant from the court with an oath of affirmation and probable cause before they are given authorization to enter personal property, excluding privately owned public spaces within the reasonable limits of the law and the consent of the property owner.
-
-
-¶25.
-Everyone has the right to trial by jury.
-
-
-¶26.
-Everyone has the right to not be put subjected to cruel punishments.
-
-
-¶27.
-Everyone has the right to own and bear firearms, except for disturbed and mentally ill persons as determined by a doctor, or minors. Sellers have the right to not sell to any person for any reason excluding discrimination as determined by law.
-
-
-¶28.
-In this section, “everyone” shall not include those that have been convicted of crimes and are on sentences or rights in this act contradict certain provisions of their release, excluding rights pertaining specifically to the judicial system and equality above the law.
-
-## §7. Amendments
+## §6. Amendments
 
 ¶1. Amendments to Act can be made through the standard referendum process in the National Assembly.
 
