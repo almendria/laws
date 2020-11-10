@@ -1,5 +1,5 @@
 # Constitution Act
-
+## Preamble
 The workers and people of the republics of the United Socialist Republics do solemnly recognize that–
 
 Whereas: The people of our nation and of our planet have for generations been oppressed by the evils of capitalism and economic inequalities have caused ever-growing inequality;
@@ -28,21 +28,26 @@ Establish the existence of the nation of the republics of the United Socialist R
 ¶4. The United Socialist Republics shall be a socialist nation following Marxism and shall be under the administration of the Communist Party of the United Socialist Republic (“Communist Party”).
 
 ## §2. Legislative
-
+### ¶1. Establishment
 The National Assembly shall exist as the federal unicameral parliament of the United Socialist Republics and its jurisdiction shall exist throughout the entire nation.
 
-¶2. Every citizen shall be a member of the National Assembly.
+### ¶2. Membership
+Every citizen shall be a member of the National Assembly.
 
-¶3.The National Assembly has general jurisdiction in all decisions that are not restricted by this Constitution.
+### ¶3. Jurisdiction
+The National Assembly has general jurisdiction in all decisions that are not restricted by this Constitution.
 
-¶4. There shall exist three types of proposals to the National Assembly–
+### ¶4. Types of Proposals
+There shall exist three types of proposals to the National Assembly–
 1. Acts, which relate to creating, amending, or deleting Acts;
 2. Referendums, which relate to creating, amending, or deleting federal jurisdictions, creating a new Constitution or amending or deleting this Constitution;
 3. Decrees, which relate to informal direct action interpreted as law with no accompanying act.
 
-¶5. The National Assembly shall have general jurisdiction over the executive branch and may create Ministries and other bodies to enforce its laws.
+### ¶5. Authority Over Executive
+The National Assembly shall have general jurisdiction over the executive branch and may create Ministries and other bodies to enforce its laws.
 
-¶6. The primary executive ministries shall include:
+### ¶6. Ministries
+The primary executive ministries shall include:
 1. Ministry of Agriculture;
 2. Ministry of the Economy;
 3. Ministry of Education;
@@ -60,10 +65,11 @@ The National Assembly shall exist as the federal unicameral parliament of the Un
 15. Ministry of War.
 
 ## §3. Judicial
+### ¶1. Creation
+There shall exist the Supreme Court of the United Socialist Republics (“Supreme Court”), which shall be the first and primary national court of the United Socialist Republics.
 
-¶1. There shall exist the Supreme Court of the United Socialist Republics (“Supreme Court”), which shall be the first and primary national court of the United Socialist Republics.
-
-¶2. The National Assembly may create by decree inferior courts to the Supreme Court.
+### ¶2. Inferior Courts
+The National Assembly may create by decree inferior courts to the Supreme Court.
 
 ¶3. Justices and Judges will be appointed by the Council of the Ministry of Justice, whose 11 members are elected by the National Assembly.
 
